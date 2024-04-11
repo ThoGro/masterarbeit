@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ADOXML SYSTEM "adoxml31.dtd">
+<ADOXML version="3.1" date="04.04.2024" time="14:50" database="adoxx18" username="Admin" adoversion="Version 1.8">
+<MODELS>
+<MODEL id="mod.27808" name="Modell" version="" modeltype="Demo" libtype="bp" applib="ADOxx 1.8 - OMiLAB Starting Library v1.2.3 (Dynamic)">
+<MODELATTRIBUTES>
+<ATTRIBUTE name="Version number" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Author" type="STRING">Admin</ATTRIBUTE>
+<ATTRIBUTE name="Creation date" type="STRING">28.03.2024, 15:14</ATTRIBUTE>
+<ATTRIBUTE name="Date last changed" type="STRING">03.04.2024, 14:11:49</ATTRIBUTE>
+<ATTRIBUTE name="Last user" type="STRING">Admin</ATTRIBUTE>
+<ATTRIBUTE name="Keywords" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Comment" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Model type" type="ENUMERATION">Current model</ATTRIBUTE>
+<ATTRIBUTE name="State" type="ENUMERATION">In process</ATTRIBUTE>
+<ATTRIBUTE name="Reviewed on" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Reviewed by" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Description" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Number of objects and relations" type="INTEGER">11</ATTRIBUTE>
+<ATTRIBUTE name="World area" type="STRING">w:26cm h:29.6cm minw:5cm minh:5cm</ATTRIBUTE>
+<ATTRIBUTE name="Grid" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Zoom" type="INTEGER">100</ATTRIBUTE>
+<ATTRIBUTE name="Viewable area" type="STRING">VIEW representation:graphic
+GRAPHIC x:-16 y:-16 w:1537 h:933 scale:1
+TABLE
+</ATTRIBUTE>
+<ATTRIBUTE name="Current mode" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Base name" type="STRING">Modell</ATTRIBUTE>
+<ATTRIBUTE name="Access state" type="ENUMERATION">write</ATTRIBUTE>
+<ATTRIBUTE name="Current page layout" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Connector marks" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Type" type="STRING">Demo</ATTRIBUTE>
+<ATTRIBUTE name="Change counter" type="INTEGER">467</ATTRIBUTE>
+<ATTRIBUTE name="Font size" type="INTEGER">0</ATTRIBUTE>
+<ATTRIBUTE name="Context of version" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Name" type="STRING">Modell</ATTRIBUTE>
+<RECORD name="memory">
+<ROW id="row.28217" number="1">
+<ATTRIBUTE name="Prefix / Constant" type="STRING">Alter</ATTRIBUTE>
+<ATTRIBUTE name="Variable value" type="STRING"></ATTRIBUTE>
+</ROW>
+</RECORD>
+<ATTRIBUTE name="model-id" type="EXPRESSION">EXPR val:27808</ATTRIBUTE>
+<ATTRIBUTE name="Position" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="object-id" type="EXPRESSION">EXPR val:27808</ATTRIBUTE>
+<ATTRIBUTE name="__GfxThumb__" type="LONGSTRING">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</ATTRIBUTE>
+</MODELATTRIBUTES>
+<INSTANCE id="obj.27810" class="Page" name="Start">
+<ATTRIBUTE name="Position" type="STRING">NODE x:3.25cm y:5.5cm index:1</ATTRIBUTE>
+<ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="object-id" type="EXPRESSION">EXPR val:27810</ATTRIBUTE>
+<ATTRIBUTE name="name" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="description" type="LONGSTRING">Bitte Name und Vorname angeben</ATTRIBUTE>
+<RECORD name="memory"></RECORD>
+<RECORD name="variables">
+<ROW id="row.27836" number="1">
+<ATTRIBUTE name="Prefix / Constant" type="STRING">Name</ATTRIBUTE>
+<ATTRIBUTE name="Variable value" type="STRING"></ATTRIBUTE>
+</ROW>
+<ROW id="row.27838" number="2">
+<ATTRIBUTE name="Prefix / Constant" type="STRING">Vorname</ATTRIBUTE>
+<ATTRIBUTE name="Variable value" type="STRING"></ATTRIBUTE>
+</ROW>
+</RECORD>
+</INSTANCE>
+<INSTANCE id="obj.27817" class="Condition" name="Volljährig?">
+<ATTRIBUTE name="Position" type="STRING">NODE x:16cm y:5.5cm index:2</ATTRIBUTE>
+<ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="object-id" type="EXPRESSION">EXPR val:27817</ATTRIBUTE>
+<ATTRIBUTE name="name" type="STRING"></ATTRIBUTE>
+<RECORD name="memory"></RECORD>
+</INSTANCE>
+<INSTANCE id="obj.27827" class="Page" name="Auszahlung Kindergeld">
+<ATTRIBUTE name="Position" type="STRING">NODE x:16cm y:10.75cm index:3</ATTRIBUTE>
+<ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="object-id" type="EXPRESSION">EXPR val:27827</ATTRIBUTE>
+<ATTRIBUTE name="name" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="description" type="LONGSTRING"></ATTRIBUTE>
+<RECORD name="memory"></RECORD>
+<RECORD name="variables"></RECORD>
+</INSTANCE>
+<INSTANCE id="obj.27830" class="Page" name="Kein Kindergeld">
+<ATTRIBUTE name="Position" type="STRING">NODE x:23.25cm y:5.5cm index:4</ATTRIBUTE>
+<ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="object-id" type="EXPRESSION">EXPR val:27830</ATTRIBUTE>
+<ATTRIBUTE name="name" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="description" type="LONGSTRING">Die Person ist bereits volljährig. Daher wird kein Kindergeld ausgezahlt.</ATTRIBUTE>
+<RECORD name="memory"></RECORD>
+<RECORD name="variables"></RECORD>
+</INSTANCE>
+<INSTANCE id="obj.27840" class="Page" name="Ende des Antrags">
+<ATTRIBUTE name="Position" type="STRING">NODE x:16cm y:13.5cm index:5</ATTRIBUTE>
+<ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="object-id" type="EXPRESSION">EXPR val:27840</ATTRIBUTE>
+<ATTRIBUTE name="name" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="description" type="LONGSTRING">Ihr Kindergeldantrag wurde genehmigt.</ATTRIBUTE>
+<RECORD name="memory"></RECORD>
+<RECORD name="variables"></RECORD>
+</INSTANCE>
+<INSTANCE id="obj.28205" class="Page" name="Eingabe Alter">
+<ATTRIBUTE name="Position" type="STRING">NODE x:9.75cm y:5.5cm index:9</ATTRIBUTE>
+<ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="object-id" type="EXPRESSION">EXPR val:28205</ATTRIBUTE>
+<ATTRIBUTE name="name" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="description" type="LONGSTRING">Bitte geben Sie Ihr Alter an.</ATTRIBUTE>
+<RECORD name="memory"></RECORD>
+<RECORD name="variables"></RECORD>
+</INSTANCE>
+<CONNECTOR id="con.27843" class="Transition">
+<FROM instance="Auszahlung Kindergeld" class="Page"></FROM>
+<TO instance="Ende des Antrags" class="Page"></TO>
+<ATTRIBUTE name="Positions" type="STRING">EDGE 0 index:6</ATTRIBUTE>
+<ATTRIBUTE name="name" type="STRING">Ende Page zu Page</ATTRIBUTE>
+</CONNECTOR>
+<CONNECTOR id="con.27844" class="Forwarding">
+<FROM instance="Volljährig?" class="Condition"></FROM>
+<TO instance="Auszahlung Kindergeld" class="Page"></TO>
+<ATTRIBUTE name="Positions" type="STRING">EDGE 0 index:7</ATTRIBUTE>
+<ATTRIBUTE name="name" type="STRING">Minderjährig</ATTRIBUTE>
+<ATTRIBUTE name="default" type="INTEGER">0</ATTRIBUTE>
+<ATTRIBUTE name="condition" type="LONGSTRING">alter&lt;18</ATTRIBUTE>
+</CONNECTOR>
+<CONNECTOR id="con.27845" class="Forwarding">
+<FROM instance="Volljährig?" class="Condition"></FROM>
+<TO instance="Kein Kindergeld" class="Page"></TO>
+<ATTRIBUTE name="Positions" type="STRING">EDGE 0 index:8</ATTRIBUTE>
+<ATTRIBUTE name="name" type="STRING">Volljährig</ATTRIBUTE>
+<ATTRIBUTE name="default" type="INTEGER">1</ATTRIBUTE>
+<ATTRIBUTE name="condition" type="LONGSTRING">alter &gt;=18</ATTRIBUTE>
+</CONNECTOR>
+<CONNECTOR id="con.28219" class="ConditionalTransition">
+<FROM instance="Eingabe Alter" class="Page"></FROM>
+<TO instance="Volljährig?" class="Condition"></TO>
+<ATTRIBUTE name="Positions" type="STRING">EDGE 0 index:10</ATTRIBUTE>
+<ATTRIBUTE name="name" type="STRING">Page zu Condition</ATTRIBUTE>
+</CONNECTOR>
+<CONNECTOR id="con.28220" class="Transition">
+<FROM instance="Start" class="Page"></FROM>
+<TO instance="Eingabe Alter" class="Page"></TO>
+<ATTRIBUTE name="Positions" type="STRING">EDGE 0 index:11</ATTRIBUTE>
+<ATTRIBUTE name="name" type="STRING">Page zu Page</ATTRIBUTE>
+</CONNECTOR>
+</MODEL>
+</MODELS>
+</ADOXML>

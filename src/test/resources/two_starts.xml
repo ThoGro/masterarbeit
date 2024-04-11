@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ADOXML SYSTEM "adoxml31.dtd">
+<ADOXML version="3.1" date="11.04.2024" time="14:08" database="adoxx18" username="Admin" adoversion="Version 1.8">
+<MODELS>
+<MODEL id="mod.12806" name="Demo" version="" modeltype="Demo" libtype="bp" applib="ADOxx 1.8 - OMiLAB Starting Library v1.2.3 (Dynamic)">
+<MODELATTRIBUTES>
+<ATTRIBUTE name="Version number" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Author" type="STRING">Admin</ATTRIBUTE>
+<ATTRIBUTE name="Creation date" type="STRING">08.01.2024, 13:08</ATTRIBUTE>
+<ATTRIBUTE name="Date last changed" type="STRING">11.04.2024, 14:08:02</ATTRIBUTE>
+<ATTRIBUTE name="Last user" type="STRING">Admin</ATTRIBUTE>
+<ATTRIBUTE name="Keywords" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Comment" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Model type" type="ENUMERATION">Current model</ATTRIBUTE>
+<ATTRIBUTE name="State" type="ENUMERATION">In process</ATTRIBUTE>
+<ATTRIBUTE name="Reviewed on" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Reviewed by" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Description" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Number of objects and relations" type="INTEGER">8</ATTRIBUTE>
+<ATTRIBUTE name="World area" type="STRING">w:18.5cm h:29.6cm minw:5cm minh:5cm</ATTRIBUTE>
+<ATTRIBUTE name="Grid" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Zoom" type="INTEGER">100</ATTRIBUTE>
+<ATTRIBUTE name="Viewable area" type="STRING">VIEW representation:graphic
+GRAPHIC x:-16 y:-16 w:1537 h:933 scale:1
+TABLE
+</ATTRIBUTE>
+<ATTRIBUTE name="Current mode" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Base name" type="STRING">Demo</ATTRIBUTE>
+<ATTRIBUTE name="Access state" type="ENUMERATION">write</ATTRIBUTE>
+<ATTRIBUTE name="Current page layout" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Connector marks" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Type" type="STRING">Demo</ATTRIBUTE>
+<ATTRIBUTE name="Change counter" type="INTEGER">315</ATTRIBUTE>
+<ATTRIBUTE name="Font size" type="INTEGER">0</ATTRIBUTE>
+<ATTRIBUTE name="Context of version" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="Name" type="STRING">Demo</ATTRIBUTE>
+<RECORD name="memory"></RECORD>
+<ATTRIBUTE name="model-id" type="EXPRESSION">EXPR val:12806</ATTRIBUTE>
+<ATTRIBUTE name="Position" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="object-id" type="EXPRESSION">EXPR val:12806</ATTRIBUTE>
+<ATTRIBUTE name="__GfxThumb__" type="LONGSTRING">iVBORw0KGgoAAAANSUhEUgAAAKAAAAEACAIAAAC7xuogAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFOklEQVR4nO3cPVLrVgBH8b9nshRL1duIh8YV3kFaqtelpHtVypSvlCsaj1eQHWRSWN6LUigYhgfGH9IFjs6vgxmsj8PVlYy5s67rIq7fPnoHNC4DwxkYzsBwBoYzMJyB4QwMZ2A4A8MZGM7AcAaGMzCcgeEMDGdgOAPDGRjOwHAGhjMwnIHhDAxnYDgDwxkYzsBwBoYzMJyB4QwMZ2A4A8MZGM7AcAaGMzCcgeEMDGdgOAPDGRjOwHAGhjMw3KQDz2azpmlub28/ekdGNN3As9ms67rZbJYE3Hg2wQXB+6iHA++/pA7lyY3gfuA+/07/JXUoTyvwr3UPqJfrCQU+UreHbDyJwC8m3SN4jfk3We8O3Fd/JJTbLvgIvqBuYLddXdcVHsRN03RFHI7umlcYaW+Lne2nEdw0TYHtrVarAlvJpWP3hW7MKbnACV+tVk8juMzAKrCh/tgGf8Fhd7vMCc9Fc/B+n/l8mN+w4R0fuPvkgj3vPnZK3u/3mV98xs8NvN9u26pq/9zkpk5b5b56+Nn9ddbWV6vVGBfqpmlWq9XbdffbbRZVtm2bqkq72T3UWabO7v4+P//Ij12W9d1i8ebrd4+X60F2/uTr8367aaubdrvdJXdVtj8edsvvd4uTz/jZI7hK1bab1HWb3a7Nt9+X5/5u9SXGmIH6Bm80nifbfbtLbtK2SZJdUif59i1JnX93qY+N8P5PT/1W1uv1xTt59rHXSaokyTbZ/ZMsz9peySnh+YbG21wGnYAPr9k0zVD73Af+tHPwMMabzLpj4/hshzc9Mtw+397eFnuaYL7R0T3Ol1dmPlyW83Xf8TiM5WKKvdFxmDIvk0Evy7++eBlPl7JrbhzOVXI0XHa5Pozd8Xa1zAnn/7Eh5zcuULeYSQTOOY1JdTOdwDmtMaxuJhU4RxuP8Tj0GUwrcN74dAfhcegNzOfgI7quW6/Xz4cy77L83ORG8MHhg+/guply4NDHbm/SgZOs12tw3RgYb3I3WVNjYDgDwxkYzsBwBoYzMJyB4QwMZ2A4A8MZGM7AcAaGMzCcgeEMDGdgOAPDGZjuy/3Da5lVmAAH0htyBBda2Wt8mAPJ4JfoEz5jfNUyW8XOyzsHct3aVfm6gd/zYpmtKpvNQ+rvN2nbanH64k8f7PW1q6psP+FRlL7JerHMVl3Xy1Rt21Ynn5eR1lHrnXpxfm3tqrbN6UdRTOHA8/ki89wtkuT5qnJnnJcyi6YeNe+H6eM1evH34v9vf+A+veVLPiaN+t9ExWbHMr5kYJ3OwHRDPVAX22Hf6DjLYCO4u24N1s8DcyA9/z8YzjkYzsBwBoYzMJyB4QwMZ2A4A8MZGM7AcAaGMzCcgeEMDGdgOAPDGRjOwHAGhjMwnIHhDAxnYDgDwxkYzsBwBoYzMJyB4QwMZ2A4A8MZGM7AcAaGMzCcgeEMDGdgOAPDGRjOwHAGhjMwnIHhDAxnYDgDwxkYzsBwBoYzMJyB4QwMZ2A4A8MZGM7AcAaGMzCcgeEMDGdgOAPDGRjOwHAGhjMwnIHhDAxnYDgDwxkYzsBwBoYzMJyB4QwMZ2A4A8MZGM7AcAaGMzCcgeEMDGdgOAPDGRjOwHAGhjMwnIHhDAxnYDgDwxkYzsBwBoYzMJyB4QwMZ2A4A8MZGM7AcAaGMzCcgeEMDGdgOAPDGRjOwHAGhjMwnIHhDAxnYDgDwxkYzsBwBoYzMJyB4QwMZ2A4A8MZGM7AcAaGMzCcgeEMDGdgOAPDGRjOwHAGhjMwnIHhDAxnYDgDwxkYzsBwBob7D2ZwIECS5iU9AAAAAElFTkSuQmCC</ATTRIBUTE>
+</MODELATTRIBUTES>
+<INSTANCE id="obj.30028" class="Page" name="Start">
+<ATTRIBUTE name="Position" type="STRING">NODE x:2.25cm y:7cm index:1</ATTRIBUTE>
+<ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="object-id" type="EXPRESSION">EXPR val:30028</ATTRIBUTE>
+<ATTRIBUTE name="name" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="description" type="LONGSTRING"></ATTRIBUTE>
+<RECORD name="memory"></RECORD>
+<RECORD name="variables"></RECORD>
+</INSTANCE>
+<INSTANCE id="obj.30034" class="Condition" name="Condition">
+<ATTRIBUTE name="Position" type="STRING">NODE x:9.75cm y:7cm index:2</ATTRIBUTE>
+<ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="object-id" type="EXPRESSION">EXPR val:30034</ATTRIBUTE>
+<ATTRIBUTE name="name" type="STRING"></ATTRIBUTE>
+<RECORD name="memory"></RECORD>
+</INSTANCE>
+<INSTANCE id="obj.30405" class="Page" name="Start 2">
+<ATTRIBUTE name="Position" type="STRING">NODE x:4.75cm y:11.75cm index:4</ATTRIBUTE>
+<ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="object-id" type="EXPRESSION">EXPR val:30405</ATTRIBUTE>
+<ATTRIBUTE name="name" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="description" type="LONGSTRING"></ATTRIBUTE>
+<RECORD name="memory"></RECORD>
+<RECORD name="variables"></RECORD>
+</INSTANCE>
+<INSTANCE id="obj.30408" class="Page" name="Ende">
+<ATTRIBUTE name="Position" type="STRING">NODE x:16.5cm y:7cm index:5</ATTRIBUTE>
+<ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="object-id" type="EXPRESSION">EXPR val:30408</ATTRIBUTE>
+<ATTRIBUTE name="name" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="description" type="LONGSTRING"></ATTRIBUTE>
+<RECORD name="memory"></RECORD>
+<RECORD name="variables"></RECORD>
+</INSTANCE>
+<INSTANCE id="obj.30413" class="Page" name="Ende 2">
+<ATTRIBUTE name="Position" type="STRING">NODE x:12.5cm y:11.75cm index:8</ATTRIBUTE>
+<ATTRIBUTE name="External tool coupling" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="object-id" type="EXPRESSION">EXPR val:30413</ATTRIBUTE>
+<ATTRIBUTE name="name" type="STRING"></ATTRIBUTE>
+<ATTRIBUTE name="description" type="LONGSTRING"></ATTRIBUTE>
+<RECORD name="memory"></RECORD>
+<RECORD name="variables"></RECORD>
+</INSTANCE>
+<CONNECTOR id="con.30037" class="ConditionalTransition">
+<FROM instance="Start" class="Page"></FROM>
+<TO instance="Condition" class="Condition"></TO>
+<ATTRIBUTE name="Positions" type="STRING">EDGE 0 index:3</ATTRIBUTE>
+<ATTRIBUTE name="name" type="STRING">übergang1</ATTRIBUTE>
+</CONNECTOR>
+<CONNECTOR id="con.30412" class="Forwarding">
+<FROM instance="Condition" class="Condition"></FROM>
+<TO instance="Ende" class="Page"></TO>
+<ATTRIBUTE name="Positions" type="STRING">EDGE 0 index:7</ATTRIBUTE>
+<ATTRIBUTE name="name" type="STRING">danach</ATTRIBUTE>
+<ATTRIBUTE name="default" type="INTEGER">1</ATTRIBUTE>
+<ATTRIBUTE name="condition" type="LONGSTRING"></ATTRIBUTE>
+</CONNECTOR>
+<CONNECTOR id="con.30416" class="Transition">
+<FROM instance="Start 2" class="Page"></FROM>
+<TO instance="Ende 2" class="Page"></TO>
+<ATTRIBUTE name="Positions" type="STRING">EDGE 0 index:9</ATTRIBUTE>
+<ATTRIBUTE name="name" type="STRING"></ATTRIBUTE>
+</CONNECTOR>
+</MODEL>
+</MODELS>
+</ADOXML>
